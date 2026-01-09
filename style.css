@@ -375,3 +375,7 @@ hr {
 background-color: white;
    margin: 40px 0 30px 0; 
 }
+
+button:hover{
+    background-color: blue;
+}
